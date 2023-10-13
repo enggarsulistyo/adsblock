@@ -20,6 +20,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 !-- Youtube -----------------------------------------------!
-||gstatic.com/youtube/img/promos/growth/^
+||gstatic.com/youtube/img/promos/growth/*
 youtube.com##.style-scope.ytd-video-masthead-ad-advertiser-info-renderer
-||youtube.com/live_chat?continuation=^
+||youtube.com/live_chat?continuation=*
