@@ -21,5 +21,5 @@ ff02::3 ip6-allhosts
 
 !-- Youtube -----------------------------------------------!
 ||gstatic.com/youtube/img/promos/growth/*
-youtube.com##.style-scope.ytd-video-masthead-ad-advertiser-info-renderer
+||youtube.com/embed
 ||youtube.com/live_chat?continuation=*
