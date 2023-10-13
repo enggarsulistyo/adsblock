@@ -22,3 +22,4 @@ ff02::3 ip6-allhosts
 !-- Youtube -----------------------------------------------!
 ||gstatic.com/youtube/img/promos/growth/dc5b9cb12d4293961921b0966a5c5d1217dceeea689d8dd762b9f6de3d4b8ce5_2560x520.jpeg
 youtube.com##.style-scope.ytd-video-masthead-ad-advertiser-info-renderer
+||youtube.com/live_chat?continuation=0ofMyAN-Gl5DaWtxSndvWVZVTXhaRWRJUjBwVVdGVmZaR3RwVWpoMFZ6TnhVV2RuRWd0cE1XVmxiRWRzV2podldSb1Q2cWpkdVFFTkNndHBNV1ZsYkVkc1dqaHZXU0FCTUFBJTNEMAGCAQYIBBgCIACIAQGgAbe-y6u88oEDqAEAsgEA
