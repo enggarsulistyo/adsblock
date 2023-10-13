@@ -1,6 +1,6 @@
 [Adblock Plus]
-! version: 000001
-! title: custom adsblock
+! Version: 0001
+! Title: AdBlock Popup
 ! home page: https://github.com/enggarsulistyo/adsblock
 
 
