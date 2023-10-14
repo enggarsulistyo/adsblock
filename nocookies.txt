@@ -1,18 +1,24 @@
-[Adblock Plus 2.0]
-! Checksum: FxZcSZMBZgwlWGA0+eRO+w
-! Version: 202310141431
-! Title: I don't care about cookies
-! Last modified: 14 Oct 2023 14:31 UTC
-! Expires: 1 days (update frequency)
-! Homepage: https://www.i-dont-care-about-cookies.eu/
-!
-! *** idcac:list.txt ***
-! Licence: https://www.gnu.org/licenses/gpl-3.0.html
-! Last modified: 25 Aug 2023 07:56 UTC
-!
-!
-! GLOBAL RULES
-!
+[Adblock Plus]
+! Version: 0001
+! Title: AdBlock Popup
+! home page: https://github.com/enggarsulistyo/adsblock
+
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
 ###stickyCookieBar
 ##.cookiebar-bar:not(body):not(html)
 ~anadibank.com,~lotusbakeries.nl,~itextpdf.com###sliding-popup.sliding-popup-bottom
