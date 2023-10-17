@@ -157,7 +157,7 @@ ff02::3 ip6-allhosts
 ||gameon-masters.com
 ||gdansk-amazon.com
 ||images-amazon.com
-||imdb.com^
+||imdb.com
 ||imdb.to
 ||kindle.cn
 ||kindle.co.jp
