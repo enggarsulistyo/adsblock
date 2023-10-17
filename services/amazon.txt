@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
- ||a2z.com^
+||a2z.com^
 ||a2z.org.cn^
 ||aboutamazon.cn^
 ||aboutamazon.co.uk^
