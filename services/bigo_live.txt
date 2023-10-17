@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-||bigolive.tv^
-||bigo.tv^
-||bigovideo.tv^
-||bigo.sg^
+||bigolive.tv
+||bigo.tv
+||bigovideo.tv
+||bigo.sg
