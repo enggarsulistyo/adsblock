@@ -18,9 +18,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-||activisionblizzard.com^
-||activision.com^
-||demonware.net^
-||callofduty.com^
-||callofdutyleague.com^
-||codmwest.com^
+||activisionblizzard.com
+||activision.com
+||demonware.net
+||callofduty.com
+||callofdutyleague.com
+||codmwest.com
