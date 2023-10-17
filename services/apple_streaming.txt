@@ -1,0 +1,38 @@
+[Adblock Plus]
+! Title: Apple Streaming - Enggar Sulistyo
+! Home Page: https://github.com/enggarsulistyo/adsblock
+
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+||applemusic.apple^
+||itun.es^
+||itunes.es^
+||itunes.apple.com^
+||itunes.ca^
+||itunes.co^
+||itunes.com^
+||itunes.co.th^
+||itunes.g.aaplimg.com^
+||itunes.hk^
+||itunes.mx^
+||itunes.org^
+||itunes.us^
+||music.apple.com^
+||hls-svod-aoc-ve.itunes.g.aaplimg.com
+||tv.apple.com^'
+||tv.g.apple.com^
+||tv.v.aaplimg.com^
