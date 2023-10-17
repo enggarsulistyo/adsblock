@@ -67,7 +67,6 @@ ff02::3 ip6-allhosts
 ||amazon.red
 ||amazon.se
 ||amazon.sg
-||amazon^
 ||amazonalexavoxcon.com
 ||amazonauthorinsights.co
 ||amazonaws-china.com
