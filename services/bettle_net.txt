@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-||battle.net^
-||battlenet.com.cn^
-||bnet.163.com^
-||bnet.cn^
+||battle.net
+||battlenet.com.cn
+||bnet.163.com
+||bnet.cn
