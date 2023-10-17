@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-||ae-rus.net^
-||ae-rus.ru^
-||aliexpress.com^
-||aliexpress.ru^
+||ae-rus.net
+||ae-rus.ru
+||aliexpress.com
+||aliexpress.ru
