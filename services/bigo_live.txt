@@ -1,6 +1,6 @@
 [Adblock Plus]
-! title: custom adsblock
-! home page: https://github.com/enggarsulistyo/adsblock
+! Title: Bigo LIve - Enggar Sulistyo
+! Home Page: https://github.com/enggarsulistyo/adsblock
 
 
 127.0.0.1 localhost
