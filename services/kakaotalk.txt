@@ -18,5 +18,5 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-||kakao.com^
-||kgslb.com^
+||kakao.com
+||kgslb.com
